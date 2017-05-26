@@ -1,3 +1,8 @@
+<p align="center"><a href="http://www.vim.org/" target="_blank">
+    <img src="http://static.thegeekstuff.com/wp-content/uploads/2009/06/vim_logo.png">
+</a></p>
+
+
 # .vim
 
 
