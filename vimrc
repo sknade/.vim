@@ -71,5 +71,10 @@ map q: :q
 " trim all whitespaces away
 nnoremap <leader>W :%s/\s\+$//<cr>:let @/=''<CR>
 
+" pathogen.vim
+execute pathogen#infect()
+syntax on
+filetype plugin indent on
 
-
+" awesome colorscheme
+colorscheme badwolf
